@@ -1,21 +1,22 @@
 {
-  "name": "react-checkbox-tree",
-  "version": "1.8.0",
-  "description": "A simple and elegant checkbox tree for React.",
-  "author": "Jake Zatecky",
+  "name": "@sungjunhan/react-checkbox-tree",
+  "version": "1.8.1",
+  "description": "A simple and elegant checkbox tree for React - forked and enhanced version.",
+  "author": "SungJunHan (forked from Jake Zatecky)",
   "license": "MIT",
   "types": "src/index.d.ts",
   "keywords": [
     "react",
     "checkbox",
-    "tree"
+    "tree",
+    "sungjunhan"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jakezatecky/react-checkbox-tree"
+    "url": "https://github.com/SungJunHan/react-checkbox-tree"
   },
-  "homepage": "https://jakezatecky.github.io/react-checkbox-tree",
-  "bugs": "https://github.com/jakezatecky/react-checkbox-tree/issues",
+  "homepage": "https://github.com/SungJunHan/react-checkbox-tree",
+  "bugs": "https://github.com/SungJunHan/react-checkbox-tree/issues",
   "main": "lib/index.js",
   "browser": "lib/index.browser.js",
   "scripts": {
@@ -68,7 +69,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "global-jsdom": "^9.0.1",
     "html-bundler-webpack-plugin": "^2.14.0",
-    "jsdom": "^22.0.0",
+    "jsdom": "^23.2.0",
     "less": "^4.1.3",
     "mocha": "^10.0.0",
     "postcss": "^8.4.21",
