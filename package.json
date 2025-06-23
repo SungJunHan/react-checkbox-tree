@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/SungJunHan/react-checkbox-tree",
   "bugs": "https://github.com/SungJunHan/react-checkbox-tree/issues",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "main": "lib/index.js",
   "browser": "lib/index.browser.js",
   "scripts": {
